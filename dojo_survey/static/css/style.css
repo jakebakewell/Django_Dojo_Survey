@@ -1,0 +1,25 @@
+.container{
+    width: 100rem;
+    padding-bottom: 3rem;
+}
+.container form{
+    margin-left: 20rem;
+}
+.container form button{
+    width: 5rem;
+}
+h6 {
+    margin-left: 2rem;
+    margin-bottom: -1.4rem;
+    margin-top: 0.5rem;
+}
+.container form select{
+    margin-left: 25rem;
+}
+#name{
+    margin-left: 25rem;
+    width: 25rem;
+}
+#submit{
+    margin-left: 40rem;
+}
